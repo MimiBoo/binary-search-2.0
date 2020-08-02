@@ -1,6 +1,6 @@
 # Binary Search 2.0
 
-this library uses the binary search algorithem but to be used on alphanumeric list insted of numeric lists.
+this library uses the binary search algorithm but to be used on alphanumeric list insted of numeric lists.
 
 ### where can i use this?
 
